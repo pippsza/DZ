@@ -1,0 +1,31 @@
+.web{
+    color: #2196F3;
+}
+footer{background-color: #2F303A;}
+.std1{
+    color: white;
+}
+.gb{
+color: #2196F3;
+}
+
+ul{
+    list-style: none;
+}
+footer>div>ul>li>a{
+    color: #FFFFFF99;
+}
+a{
+ text-decoration: none;
+}
+
+.gbf{
+    color: white;
+     background-color:  #2196F3;
+     ;
+}
+
+.num{
+    color:black
+}
+.std{color: black;}
